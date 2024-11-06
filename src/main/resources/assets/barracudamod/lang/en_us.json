@@ -1,0 +1,20 @@
+{
+  "item.barracudamod.aquatic_dust": "Aquatic Dust",
+  "item.barracudamod.sea_mineral": "Sea Mineral",
+  "item.barracudamod.sea_ingot": "Sea Ingot",
+  "item.barracudamod.cursed_gold_ingot": "Cursed Gold Ingot",
+  "item.barracudamod.tormented_soul": "Tormented Soul",
+  "item.barracudamod.redstoneium_ingot": "Redstoneium Ingot",
+  "item.barracudamod.charged_redstoneium_ingot": "Charged Redstoneium Ingot",
+
+
+  "block.barracudamod.aquatic_sand": "Aquatic Sand",
+  "block.barracudamod.mineral_block": "Mineral Block",
+  "block.barracudamod.mineral_cluster": "Mineral Cluster",
+  "block.barracudamod.cursed_gold_block": "Cursed Gold Block",
+  "block.barracudamod.redstoneium_block": "Redstoneium Block",
+  "block.barracudamod.charged_redstoneium_block": "Charged Redstoneium Block",
+
+
+  "itemgroup.barracudamod.barracuda_items": "Barracuda Items"
+}

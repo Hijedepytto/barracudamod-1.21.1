@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "barracudamod:mineral_cluster"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "barracudamod:sea_mineral"
+  }
+}

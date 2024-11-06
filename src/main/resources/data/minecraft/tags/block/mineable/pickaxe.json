@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "barracudamod:mineral_block",
+    "barracudamod:mineral_cluster",
+    "barracudamod:cursed_gold_block"
+  ]
+}
